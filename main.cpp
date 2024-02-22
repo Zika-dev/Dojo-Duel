@@ -35,7 +35,6 @@
 #include "textures/health40.ppm"
 #include "textures/health20.ppm"
 #include "textures/health10.ppm"
-#include "textures/test.ppm"
 
 // Splashscreens
 #include "textures/titleScreen.ppm"
