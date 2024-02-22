@@ -27,9 +27,9 @@ Requires [Glut](https://www.opengl.org/resources/libraries/glut/glut_downloads.p
 
 1. Generate Visual Studio project
 ```sh
-cmake .
+cmake . -A Win32
 ```
-2. Open and build the Visual Studio project
+2. Open and set build to be release before building
 
 ## Credits
 
