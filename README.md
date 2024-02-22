@@ -3,7 +3,7 @@
 </div>
 
 # Dojo Duel
-Epic Ninja Fighting Game made in C
+Epic Ninja Fighting Game made in C++
 
 ## About
 Dojo Duel is a ninja themed endless fighting game. Your only goal is to defeat the Samurai as many times as you can, each time he gets stronger and stronger.
